@@ -59,7 +59,7 @@ return [
             'prefix' => '',
             'strict' => true,
             'engine' => null,
-        ],
+        ], 
 
         'mysql_test' => [         
             'driver' => 'mysql',
